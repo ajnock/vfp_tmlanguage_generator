@@ -19,7 +19,7 @@
 		"languages": [{
 			"id": "vfp",
 			"aliases": ["Visual FoxPro","Foxpro","FoxPro","foxpro"],
-			"extensions": [".prg"],
+			"extensions": [".prg",".vca",".sca"],
 			"configuration": "./vfp.configuration.json"
 		}],
 		"grammars": [{

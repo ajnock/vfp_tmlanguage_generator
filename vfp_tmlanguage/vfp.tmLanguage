@@ -5,6 +5,8 @@
 	<key>fileTypes</key>
 	<array>
 		<string>prg</string>
+		<string>sca</string>
+		<string>vca</string>
 	</array>
 	<key>name</key>
 	<string>Visual FoxPro</string>
